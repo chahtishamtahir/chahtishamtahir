@@ -52,7 +52,7 @@
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,socketio&theme=dark" />
 
 <br/><br/>
 
@@ -133,7 +133,7 @@
 
 🥇 &nbsp; **NSCT 2026** — Scored **82/100** at the **99.8th percentile** in the HEC / P@SHA National Skills Competency Test
 
-💻 &nbsp; **PM Laptop Scheme 2024** — National merit-based award for academic excellence.
+💻 &nbsp; **PM Laptop Scheme 2024** — National merit-based award for academic excellence
 
 🎓 &nbsp; **CGPA 3.62 / 4.00** — BS Computer Science, COMSATS University Islamabad, Vehari Campus
 
